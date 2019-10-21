@@ -4,17 +4,17 @@
     <property name="created">2019-10-21T09:21:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-21T09:26:27</property>
+    <property name="modified">2019-10-21T17:45:14</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -53,6 +53,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
     <option name="INDENT_GUIDE" value="424450" />
     <option name="INFORMATION_HINT" value="282a36" />
@@ -317,7 +318,6 @@
     <option name="CSS.HASH">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -338,7 +338,6 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -365,7 +364,6 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -404,7 +402,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="50fa78" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -429,7 +426,6 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -483,7 +479,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -507,7 +502,6 @@
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -523,13 +517,11 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -573,9 +565,7 @@
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="21222c" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -624,7 +614,6 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="666b87" />
-        <option name="BACKGROUND" value="242632" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -778,9 +767,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="21222c" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -878,7 +865,15 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -1803,9 +1798,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="666b87" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="cccccc" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
