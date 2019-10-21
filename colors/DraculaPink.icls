@@ -1,10 +1,12 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -352,6 +354,9 @@
         <option name="FOREGROUND" value="f1fa8c" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -368,12 +373,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
-    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="IGNORE.COMMENT" baseAttributes="" />
+    <option name="IGNORE.HEADER" baseAttributes="" />
+    <option name="IGNORE.NEGATION" baseAttributes="" />
+    <option name="IGNORE.SECTION" baseAttributes="" />
+    <option name="IGNORE.SYNTAX" baseAttributes="" />
+    <option name="IGNORE.VALUE" baseAttributes="" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -478,6 +483,11 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
@@ -487,9 +497,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="8be9fd" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -552,7 +560,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f1fa8c" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
