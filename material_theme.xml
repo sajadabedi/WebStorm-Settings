@@ -1,7 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="codeAdditionsEnabled" value="false" />
+    <option name="compactDropdowns" value="true" />
+    <option name="fileStatusColorsEnabled" value="false" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-3f628ecb:16decdf2558:-8000" />
     <option name="version" value="4.5.2" />
