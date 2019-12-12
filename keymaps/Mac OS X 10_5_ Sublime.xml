@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ Sublime" parent="Mac OS X 10.5+">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
