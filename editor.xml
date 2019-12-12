@@ -18,6 +18,9 @@
   <component name="LiveEditOptions">
     <option name="elementHighlighting" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
