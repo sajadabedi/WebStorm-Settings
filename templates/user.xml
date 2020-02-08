@@ -8,4 +8,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="mg" value="map_get($var$,'$value$')" description="map_get" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="$Spaces" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="x1" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
