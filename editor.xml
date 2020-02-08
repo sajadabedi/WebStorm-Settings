@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
   <component name="LiveEditOptions">
     <option name="elementHighlighting" value="false" />
   </component>
